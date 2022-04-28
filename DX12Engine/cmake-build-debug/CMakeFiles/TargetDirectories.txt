@@ -1,0 +1,3 @@
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/CMakeFiles/DX12Engine.dir
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,194 @@
+﻿  AnimatedMesh.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  AnimatedMeshEntityComponent.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  AnimatedModelEntityComponent.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedModelEntityComponent.cpp(413,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  DDSTextureLoader.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  DescriptorHeap.cpp
+  DynamicDescriptorHeap.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  FileUtility.cpp
+  GpuBuffer.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  LinearAllocator.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  RootSignature.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Texture.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  DefaultTextures.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  UploadBuffer.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Utility.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(118,1): warning C4005: 'ERROR': macro redefinition
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\Dynamic Descriptor Heap\Utility.h(156): message : see previous definition of 'ERROR'
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\Dynamic Descriptor Heap\Utility.cpp(103,14): warning C5033: 'register' is no longer a supported storage class
+  OldCamera.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\OldCamera.cpp(33,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  DataContainerParser.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(168,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(211,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(243,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(267,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(284,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(304,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(320,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(329,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(358,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(388,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(400,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(420,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(432,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(470,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(471,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(487,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(490,52): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(491,46): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(512,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(525,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(535,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(544,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(553,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(587,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(590,47): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(591,41): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(603,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(625,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(647,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(656,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(693,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(701,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(704,53): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerParser.cpp(705,47): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  DataContainerSection.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerSection.cpp(887,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerSection.cpp(892,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerSection.cpp(897,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerSection.cpp(902,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerSection.cpp(907,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerSection.cpp(912,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerSection.cpp(917,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataContainerSection.cpp(922,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  CPUPerformance.cpp
+  DataFileContainer.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataFileContainer.cpp(377,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataFileContainer.cpp(431,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataFileContainer.cpp(985,66): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataFileContainer.cpp(1034,66): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataFileContainer.cpp(1085,22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\DataFileContainer.cpp(1184,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Direct3D.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\Direct3D.cpp(42,21): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\Direct3D.cpp(43,22): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  Compiling...
+  FPSTimer.cpp
+  Graphics.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Input.cpp
+  main.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  MaterialManager.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\MaterialManager.cpp(86,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\MaterialManager.cpp(112,68): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\MaterialManager.cpp(135,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\MaterialManager.cpp(158,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\MaterialManager.cpp(180,68): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  SceneGraph.cpp
+  StaticMeshEntityComponent.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  StaticModelEntityComponent.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  System.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  GameTime.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\GameTime.cpp(55,9): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\GameTime.cpp(135,10): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+  TransformNode.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\TransformNode.cpp(145,168): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\TransformNode.cpp(145,163): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\TransformNode.cpp(145,156): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\TransformNode.cpp(436,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\TransformNode.cpp(448,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\TransformNode.cpp(459,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  StaticMesh.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Model.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  EntityComponentBase.cpp
+  Generating code
+  130 of 5590 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    243 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DX12Engine.vcxproj -> C:\Users\maxim\Documents\Assimp-Object-Converter - Kopie - Kopie\x64\Release\DX12Engine.exe
+          1 Datei(en) kopiert.

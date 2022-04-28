@@ -1,0 +1,13 @@
+#Material Library
+
+[Default]
+f0 = 0.060000
+render_forward = false
+is_transparent = false
+use_alphachannel_transparency = false
+albedo_map = "defaultAlbedo.psd"
+roughness_map = "defaultRoughness.dds"
+metalness_map = "defaultMetalness.dds"
+normal_map = ""
+
+

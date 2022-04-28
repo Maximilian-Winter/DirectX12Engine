@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DX12Engine"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DX12Engine">
+				<Option output="C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/DX12Engine.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/DirectX12/DX12Engine - Kopie/DX12Engine/."/>
+					<Add directory="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 DX12Engine"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DX12Engine/fast">
+				<Option output="C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/DX12Engine.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/DirectX12/DX12Engine - Kopie/DX12Engine/."/>
+					<Add directory="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 DX12Engine/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/SceneGraph.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/SceneGraph.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/CPUPerformance.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/CPUPerformance.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataContainerParser.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataContainerParser.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataContainerSection.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataContainerSection.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataFileContainer.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataFileContainer.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Direct3D.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Direct3D.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/FPSTimer.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/FPSTimer.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Graphics.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Graphics.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Input.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Input.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Logger.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/MaterialManager.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/MaterialManager.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Singleton.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/System.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/System.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Texture.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Texture.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/TextureManager.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/TextureManager.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Timer.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Timer.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Transform.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Transform.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/d3dx12.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/main.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/StaticMesh.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/StaticMesh.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/StaticModel.cpp">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/StaticModel.h">
+			<Option target="DX12Engine"/>
+		</Unit>
+		<Unit filename="C:/DirectX12/DX12Engine - Kopie/DX12Engine/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

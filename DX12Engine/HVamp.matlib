@@ -1,0 +1,12 @@
+#Material Library
+
+[Vampire_MAT00]
+f0 = 0.060000
+render_forward = false
+is_transparent = false
+use_alphachannel_transparency = false
+albedo_map = "../../../../home/app/mixamo-mini/tmp/skins_d52dad6b-1bde-4acc-b056-556b656b6588.fbm/Vampire_diffuse.png"
+roughness_map = "data/models/defaultRoughness.dds"
+metalness_map = "data/models/defaultMetalness.dds"
+normal_map = "../../../../home/app/mixamo-mini/tmp/skins_d52dad6b-1bde-4acc-b056-556b656b6588.fbm/Vampire_normal.png"
+

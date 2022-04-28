@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\DX12Engine.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\DX12Engine.dir/objects.a @CMakeFiles\DX12Engine.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\DX12Engine.dir/objects.a -Wl,--no-whole-archive -o DX12Engine.exe -Wl,--out-implib,libDX12Engine.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DX12Engine.dir\linklibs.rsp

@@ -1,0 +1,62 @@
+#Material Library
+
+[NoMaterialName00]
+f0 = 0.060000
+render_forward = false
+is_transparent = false
+use_alphachannel_transparency = false
+albedo_map = "bob_body.dds"
+roughness_map = "data/models/defaultRoughness.dds"
+metalness_map = "data/models/defaultMetalness.dds"
+normal_map = "bob_body_local.tga"
+
+[NoMaterialName01]
+f0 = 0.060000
+render_forward = false
+is_transparent = false
+use_alphachannel_transparency = false
+albedo_map = "bob_head.dds"
+roughness_map = "data/models/defaultRoughness.dds"
+metalness_map = "data/models/defaultMetalness.dds"
+normal_map = "bob_head_local.tga"
+
+[NoMaterialName02]
+f0 = 0.060000
+render_forward = false
+is_transparent = false
+use_alphachannel_transparency = false
+albedo_map = "bob_helmet.dds"
+roughness_map = "data/models/defaultRoughness.dds"
+metalness_map = "data/models/defaultMetalness.dds"
+normal_map = "bob_helmet_local.tga"
+
+[NoMaterialName03]
+f0 = 0.060000
+render_forward = false
+is_transparent = false
+use_alphachannel_transparency = false
+albedo_map = "lantern.dds"
+roughness_map = "data/models/defaultRoughness.dds"
+metalness_map = "data/models/defaultMetalness.dds"
+normal_map = "lantern_local.tga"
+
+[NoMaterialName04]
+f0 = 0.060000
+render_forward = false
+is_transparent = false
+use_alphachannel_transparency = false
+albedo_map = "lantern_top.dds"
+roughness_map = "data/models/defaultRoughness.dds"
+metalness_map = "data/models/defaultMetalness.dds"
+normal_map = "lantern_top_local.tga"
+
+[NoMaterialName05]
+f0 = 0.060000
+render_forward = false
+is_transparent = false
+use_alphachannel_transparency = false
+albedo_map = "bob_body.dds"
+roughness_map = "data/models/defaultRoughness.dds"
+metalness_map = "data/models/defaultMetalness.dds"
+normal_map = "bob_body_local.tga"
+

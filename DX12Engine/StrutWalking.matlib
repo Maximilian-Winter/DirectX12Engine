@@ -1,0 +1,52 @@
+#Material Library
+
+[NoMaterialName00]
+f0 = 0.060000
+render_forward = false
+is_transparent = false
+use_alphachannel_transparency = false
+albedo_map = "../../../../home/app/mixamo-mini/tmp/skins_3628ee46-1c36-4b5e-9c3d-c2128bb4a870.fbm/Remy_Body_Diffuse.png"
+roughness_map = "data/models/defaultRoughness.dds"
+metalness_map = "data/models/defaultMetalness.dds"
+normal_map = "../../../../home/app/mixamo-mini/tmp/skins_3628ee46-1c36-4b5e-9c3d-c2128bb4a870.fbm/Remy_Body_Normal.png"
+
+[NoMaterialName01]
+f0 = 0.060000
+render_forward = false
+is_transparent = false
+use_alphachannel_transparency = false
+albedo_map = "../../../../home/app/mixamo-mini/tmp/skins_3628ee46-1c36-4b5e-9c3d-c2128bb4a870.fbm/Remy_Hair_Diffuse.png"
+roughness_map = "data/models/defaultRoughness.dds"
+metalness_map = "data/models/defaultMetalness.dds"
+normal_map = "../../../../home/app/mixamo-mini/tmp/skins_3628ee46-1c36-4b5e-9c3d-c2128bb4a870.fbm/Remy_Hair_Normal.png"
+
+[NoMaterialName02]
+f0 = 0.060000
+render_forward = false
+is_transparent = false
+use_alphachannel_transparency = false
+albedo_map = "../../../../home/app/mixamo-mini/tmp/skins_3628ee46-1c36-4b5e-9c3d-c2128bb4a870.fbm/Remy_Bottom_Diffuse.png"
+roughness_map = "data/models/defaultRoughness.dds"
+metalness_map = "data/models/defaultMetalness.dds"
+normal_map = "../../../../home/app/mixamo-mini/tmp/skins_3628ee46-1c36-4b5e-9c3d-c2128bb4a870.fbm/Remy_Bottom_Normal.png"
+
+[NoMaterialName03]
+f0 = 0.060000
+render_forward = false
+is_transparent = false
+use_alphachannel_transparency = false
+albedo_map = "../../../../home/app/mixamo-mini/tmp/skins_3628ee46-1c36-4b5e-9c3d-c2128bb4a870.fbm/Remy_Top_Diffuse.png"
+roughness_map = "data/models/defaultRoughness.dds"
+metalness_map = "data/models/defaultMetalness.dds"
+normal_map = "../../../../home/app/mixamo-mini/tmp/skins_3628ee46-1c36-4b5e-9c3d-c2128bb4a870.fbm/Remy_Top_Normal.png"
+
+[NoMaterialName04]
+f0 = 0.060000
+render_forward = false
+is_transparent = false
+use_alphachannel_transparency = false
+albedo_map = "../../../../home/app/mixamo-mini/tmp/skins_3628ee46-1c36-4b5e-9c3d-c2128bb4a870.fbm/Remy_Shoes_Diffuse.png"
+roughness_map = "data/models/defaultRoughness.dds"
+metalness_map = "data/models/defaultMetalness.dds"
+normal_map = "../../../../home/app/mixamo-mini/tmp/skins_3628ee46-1c36-4b5e-9c3d-c2128bb4a870.fbm/Remy_Shoes_Normal.png"
+

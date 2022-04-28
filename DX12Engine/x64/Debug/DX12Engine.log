@@ -1,0 +1,16 @@
+﻿  Graphics.cpp
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(79,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(82,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\DX12Engine\Src\AnimatedMesh.h(302,45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+DescriptorHeap.obj : warning LNK4099: PDB 'vc142.pdb' was not found with 'DescriptorHeap.obj' or at 'C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\x64\Debug\vc142.pdb'; linking object as if no debug info
+FileUtility.obj : warning LNK4099: PDB 'vc142.pdb' was not found with 'FileUtility.obj' or at 'C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\x64\Debug\vc142.pdb'; linking object as if no debug info
+Utility.obj : warning LNK4099: PDB 'vc142.pdb' was not found with 'Utility.obj' or at 'C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\x64\Debug\vc142.pdb'; linking object as if no debug info
+OldCamera.obj : warning LNK4099: PDB 'vc142.pdb' was not found with 'OldCamera.obj' or at 'C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\x64\Debug\vc142.pdb'; linking object as if no debug info
+DataContainerParser.obj : warning LNK4099: PDB 'vc142.pdb' was not found with 'DataContainerParser.obj' or at 'C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\x64\Debug\vc142.pdb'; linking object as if no debug info
+CPUPerformance.obj : warning LNK4099: PDB 'vc142.pdb' was not found with 'CPUPerformance.obj' or at 'C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\x64\Debug\vc142.pdb'; linking object as if no debug info
+FPSTimer.obj : warning LNK4099: PDB 'vc142.pdb' was not found with 'FPSTimer.obj' or at 'C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\x64\Debug\vc142.pdb'; linking object as if no debug info
+Input.obj : warning LNK4099: PDB 'vc142.pdb' was not found with 'Input.obj' or at 'C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\x64\Debug\vc142.pdb'; linking object as if no debug info
+GameTime.obj : warning LNK4099: PDB 'vc142.pdb' was not found with 'GameTime.obj' or at 'C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\x64\Debug\vc142.pdb'; linking object as if no debug info
+  DX12Engine.vcxproj -> C:\DirectX12\DX12Engine - Kopie - Kopie - Kopie\x64\Debug\DX12Engine.exe
+          1 Datei(en) kopiert.

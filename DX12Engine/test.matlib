@@ -1,0 +1,22 @@
+#Material Library
+
+[Bear_Skin_Panda00100]
+f0 = 0.060000
+render_forward = false
+is_transparent = false
+use_alphachannel_transparency = false
+albedo_map = "*0"
+roughness_map = "data/models/defaultRoughness.dds"
+metalness_map = "data/models/defaultMetalness.dds"
+normal_map = ""
+
+[Magic_Yellow00101]
+f0 = 0.060000
+render_forward = false
+is_transparent = false
+use_alphachannel_transparency = false
+albedo_map = "data/models/defaultAlbedo.dds"
+roughness_map = "data/models/defaultRoughness.dds"
+metalness_map = "data/models/defaultMetalness.dds"
+normal_map = ""
+

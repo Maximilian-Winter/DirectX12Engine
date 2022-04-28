@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Quelldateien">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Ressourcendateien">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Shader">
+      <UniqueIdentifier>{378594c0-7a9a-4d9b-8619-51046d009c6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Extras">
+      <UniqueIdentifier>{5d431d31-f278-4092-8872-fae7d534d75a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Extras">
+      <UniqueIdentifier>{5f227203-014a-49be-a89e-542578f75653}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Extras\Math">
+      <UniqueIdentifier>{cb5aba29-5603-4771-b65a-a821b7caaf5e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Src\Direct3D.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Graphics.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Input.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\System.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\d3dx12.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\CPUPerformance.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\FPSTimer.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticMesh.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\TransformNode.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\DataContainerParser.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\DataContainerSection.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\DataFileContainer.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Logger.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Singleton.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\MaterialManager.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityComponentBase.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\SceneGraph.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\StaticModelEntityComponent.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\StaticMeshEntityComponent.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\OldCamera.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\MeshUtilities.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GameTime.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Direct2D.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Dynamic Descriptor Heap\DescriptorHeap.h">
+      <Filter>Headerdateien\Extras</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Dynamic Descriptor Heap\DynamicDescriptorHeap.h">
+      <Filter>Headerdateien\Extras</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Dynamic Descriptor Heap\GpuBuffer.h">
+      <Filter>Headerdateien\Extras</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Dynamic Descriptor Heap\GpuResource.h">
+      <Filter>Headerdateien\Extras</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Dynamic Descriptor Heap\RootSignature.h">
+      <Filter>Headerdateien\Extras</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Dynamic Descriptor Heap\Texture.h">
+      <Filter>Headerdateien\Extras</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Dynamic Descriptor Heap\DefaultTextures.h">
+      <Filter>Headerdateien\Extras</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Dynamic Descriptor Heap\UploadBuffer.h">
+      <Filter>Headerdateien\Extras</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Dynamic Descriptor Heap\VectorMath.h">
+      <Filter>Headerdateien\Extras</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Dynamic Descriptor Heap\LinearAllocator.h">
+      <Filter>Headerdateien\Extras</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Dynamic Descriptor Heap\Utility.h">
+      <Filter>Headerdateien\Extras</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Dynamic Descriptor Heap\Hash.h">
+      <Filter>Headerdateien\Extras</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Dynamic Descriptor Heap\FileUtility.h">
+      <Filter>Headerdateien\Extras</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Dynamic Descriptor Heap\DDSTextureLoader.h">
+      <Filter>Headerdateien\Extras</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Dynamic Descriptor Heap\Math\Common.h">
+      <Filter>Headerdateien\Extras\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\AnimatedModelEntityComponent.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\AnimatedMeshEntityComponent.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\AnimatedMesh.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Src\Direct3D.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Graphics.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Input.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\main.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\System.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\CPUPerformance.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\FPSTimer.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticMesh.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\TransformNode.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\DataContainerParser.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\DataContainerSection.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\DataFileContainer.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\MaterialManager.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityComponentBase.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\SceneGraph.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\StaticModelEntityComponent.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\StaticMeshEntityComponent.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\OldCamera.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GameTime.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Dynamic Descriptor Heap\DescriptorHeap.cpp">
+      <Filter>Quelldateien\Extras</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Dynamic Descriptor Heap\DynamicDescriptorHeap.cpp">
+      <Filter>Quelldateien\Extras</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Dynamic Descriptor Heap\GpuBuffer.cpp">
+      <Filter>Quelldateien\Extras</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Dynamic Descriptor Heap\RootSignature.cpp">
+      <Filter>Quelldateien\Extras</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Dynamic Descriptor Heap\Texture.cpp">
+      <Filter>Quelldateien\Extras</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Dynamic Descriptor Heap\DefaultTextures.cpp">
+      <Filter>Quelldateien\Extras</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Dynamic Descriptor Heap\UploadBuffer.cpp">
+      <Filter>Quelldateien\Extras</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Dynamic Descriptor Heap\LinearAllocator.cpp">
+      <Filter>Quelldateien\Extras</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Dynamic Descriptor Heap\Utility.cpp">
+      <Filter>Quelldateien\Extras</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Dynamic Descriptor Heap\FileUtility.cpp">
+      <Filter>Quelldateien\Extras</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Dynamic Descriptor Heap\DDSTextureLoader.cpp">
+      <Filter>Quelldateien\Extras</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\AnimatedModelEntityComponent.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\AnimatedMesh.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\AnimatedMeshEntityComponent.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="shaders.hlsl">
+      <Filter>Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="ForwardDirectionalLightShader.hlsl">
+      <Filter>Shader</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

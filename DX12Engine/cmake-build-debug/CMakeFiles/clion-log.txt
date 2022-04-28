@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "C:\DirectX12\DX12Engine - Kopie\DX12Engine"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/DirectX12/DX12Engine - Kopie/DX12Engine/cmake-build-debug

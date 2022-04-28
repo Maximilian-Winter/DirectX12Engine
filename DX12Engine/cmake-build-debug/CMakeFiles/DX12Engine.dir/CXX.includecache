@@ -1,0 +1,306 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/SceneGraph.cpp
+SceneGraph.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/SceneGraph.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/SceneGraph.h
+d3d12.h
+-
+map
+-
+string
+-
+vector
+-
+wrl/client.h
+-
+StaticMesh.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/StaticMesh.h
+Src/Transform.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Transform.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/CPUPerformance.cpp
+CPUPerformance.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/CPUPerformance.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/CPUPerformance.h
+pdh.h
+-
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataContainerParser.cpp
+DataContainerParser.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataContainerParser.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataContainerParser.h
+iostream
+-
+fstream
+-
+sstream
+-
+istream
+-
+vector
+-
+algorithm
+-
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataContainerSection.cpp
+DataContainerSection.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataContainerSection.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataContainerSection.h
+vector
+-
+algorithm
+-
+string
+-
+fstream
+-
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataFileContainer.cpp
+DataFileContainer.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataFileContainer.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataFileContainer.h
+DataContainerParser.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataContainerParser.h
+DataContainerSection.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataContainerSection.h
+fstream
+-
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Direct3D.cpp
+Direct3D.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Direct3D.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Direct3D.h
+d3d12.h
+-
+d3d11on12.h
+-
+directxmath.h
+-
+d2d1.h
+-
+dwrite.h
+-
+dxgi.h
+-
+d2d1_3.h
+-
+d3dx12.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/d3dx12.h
+dxgi1_4.h
+-
+dxgi1_6.h
+-
+D3Dcompiler.h
+-
+stdexcept
+-
+CPUPerformance.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/CPUPerformance.h
+FPSTimer.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/FPSTimer.h
+Timer.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Timer.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/FPSTimer.cpp
+FPSTimer.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/FPSTimer.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/FPSTimer.h
+windows.h
+-
+mmsystem.h
+-
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Graphics.cpp
+Graphics.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Graphics.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Graphics.h
+Direct3D.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Direct3D.h
+../StaticModel.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/StaticModel.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Input.cpp
+Input.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Input.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Input.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Logger.h
+DataFileContainer.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataFileContainer.h
+Singleton.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Singleton.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/MaterialManager.cpp
+MaterialManager.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/MaterialManager.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/MaterialManager.h
+d3d11.h
+-
+DirectXMath.h
+-
+vector
+-
+Direct3D.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Direct3D.h
+TextureManager.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/TextureManager.h
+DataFileContainer.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataFileContainer.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Singleton.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/System.cpp
+System.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/System.h
+Logger.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Logger.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/System.h
+windows.h
+-
+Input.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Input.h
+Graphics.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Graphics.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Texture.cpp
+Texture.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Texture.h
+ResourceUploadBatch.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/ResourceUploadBatch.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Texture.h
+d3d11.h
+-
+wrl/client.h
+-
+DDSTextureLoader.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DDSTextureLoader.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/TextureManager.cpp
+TextureManager.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/TextureManager.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/TextureManager.h
+d3d12.h
+-
+vector
+-
+algorithm
+-
+Texture.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Texture.h
+string
+-
+wrl/client.h
+-
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Timer.cpp
+Timer.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Timer.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Timer.h
+windows.h
+-
+string
+-
+fstream
+-
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Transform.cpp
+Transform.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Transform.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Transform.h
+Direct3D.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Direct3D.h
+SimpleMath.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/SimpleMath.h
+SimpleMath.inl
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/SimpleMath.inl
+memory
+-
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/d3dx12.h
+d3d12.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/d3d12.h
+list
+-
+vector
+-
+string
+-
+memory
+-
+wrl/client.h
+-
+atlbase.h
+-
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/main.cpp
+System.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/System.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/StaticMesh.cpp
+StaticMesh.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/StaticMesh.h
+Src/Direct3D.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Direct3D.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/StaticMesh.h
+d3d12.h
+-
+directxmath.h
+-
+string
+-
+vector
+-
+wrl/client.h
+-
+Src/Transform.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Transform.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/StaticModel.cpp
+StaticModel.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/StaticModel.h
+Src/DataFileContainer.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/DataFileContainer.h
+Src/Logger.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/Logger.h
+
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/StaticModel.h
+d3d12.h
+-
+directxmath.h
+-
+string
+-
+vector
+-
+wrl/client.h
+-
+SceneGraph.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/SceneGraph.h
+StaticMesh.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/StaticMesh.h
+Src/MaterialManager.h
+C:/DirectX12/DX12Engine - Kopie/DX12Engine/Src/MaterialManager.h
+
